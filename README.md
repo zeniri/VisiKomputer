@@ -5,4 +5,4 @@
 
 # UTS VISI KOMPUTER
 
-LINK : 
+LINK : https://github.com/zeniri/VisiKomputer
